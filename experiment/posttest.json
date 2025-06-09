@@ -105,10 +105,10 @@
         "a": "Perpendicular to the base",
         "b": "Inclined to the base",
         "c": "Parallel to the base",
-        "d": "Inclined to both HP and VP"
+        "d": "Parallel to both HP and VP"
       },
       "explanations": {
-        "c": "Parallel to the base"
+        "d": "Parallel to both HP and VP"
       },
       "correctAnswer": "c",
       "difficulty": "intermediate"
@@ -136,21 +136,7 @@
         "d": "Parallel to both HP and VP"
       },
       "explanations": {
-        "b": "Perpendicular to VP and parallel to HP"
-      },
-      "correctAnswer": "b",
-      "difficulty": "advanced"
-    },
-    {
-      "question": "What is the axis of a right cone when it is parallel to both HP and VP?",
-      "answers": {
-        "a": "Perpendicular to the base",
-        "b": "Inclined to the base",
-        "c": "Parallel to the base",
-        "d": "Inclined to both HP and VP"
-      },
-      "explanations": {
-        "b": "Parallel to HP and VP"
+        "c": "Inclined to both HP and VP"
       },
       "correctAnswer": "b",
       "difficulty": "advanced"

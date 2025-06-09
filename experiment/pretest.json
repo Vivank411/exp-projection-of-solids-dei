@@ -164,7 +164,7 @@
         "d": "Right angle sphere"
       },
       "explanations": {
-        "b": "Right angle sphere"
+        "b": "Right angle triangle"
       },
       "correctAnswer": "a",
       "difficulty": "advanced"
@@ -206,7 +206,7 @@
         "d": "Diagonal to the base"
       },
       "explanations": {
-        "a": "Parallel to the base"
+        "b": "Inclined to the base"
       },
       "correctAnswer": "a",
       "difficulty": "advanced"
