@@ -110,7 +110,7 @@
       "explanations": {
         "d": "Parallel to both HP and VP"
       },
-      "correctAnswer": "c",
+      "correctAnswer": "d",
       "difficulty": "intermediate"
     },
     {
@@ -138,7 +138,7 @@
       "explanations": {
         "c": "Inclined to both HP and VP"
       },
-      "correctAnswer": "b",
+      "correctAnswer": "c",
       "difficulty": "advanced"
     }
   ]

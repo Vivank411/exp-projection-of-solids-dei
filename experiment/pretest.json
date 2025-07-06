@@ -166,7 +166,7 @@
       "explanations": {
         "b": "Right angle triangle"
       },
-      "correctAnswer": "a",
+      "correctAnswer": "b",
       "difficulty": "advanced"
     },
     {
@@ -208,7 +208,7 @@
       "explanations": {
         "b": "Inclined to the base"
       },
-      "correctAnswer": "a",
+      "correctAnswer": "b",
       "difficulty": "advanced"
     }
   ]
