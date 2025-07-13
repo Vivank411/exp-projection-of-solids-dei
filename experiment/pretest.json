@@ -10,7 +10,8 @@
         "d": "None of these"
       },
       "explanations": {
-        "a": "Frustum"
+        "a": "Frustum",
+        "explanation": "A frustum has two parallel circular or polygonal faces—top and base."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
@@ -24,7 +25,8 @@
         "d": "four, thickness"
       },
       "explanations": {
-        "c": "three, thickness"
+        "c": "three, thickness",
+        "explanation": "Solids have three dimensions: length, breadth (width), and thickness (height)."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
@@ -38,7 +40,8 @@
         "d": "Dodecahedron and Solids of Revolution "
       },
       "explanations": {
-        "c": "Polyhedron and Solids of Revolution"
+        "c": "Polyhedron and Solids of Revolution",
+        "explanation": "Solids are categorized based on faces (polyhedrons) and shape generation (revolution)."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
@@ -52,7 +55,8 @@
         "d": "None of these"
       },
       "explanations": {
-        "a": "Polyhedron"
+        "a": "Polyhedron",
+        "explanation": "Polyhedrons are solids with flat polygonal faces like prisms and pyramids."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
@@ -66,7 +70,8 @@
         "d": "None of these"
       },
       "explanations": {
-        "b": "Equal and regular faces"
+        "b": "Equal and regular faces",
+        "explanation": "A regular polyhedron has all faces equal in size and shape."
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
@@ -80,7 +85,8 @@
         "d": "40"
       },
       "explanations": {
-        "b": "20"
+        "b": "20",
+        "explanation": "An icosahedron is a regular polyhedron with 20 equilateral triangular faces."
       },
       "correctAnswer": "b",
       "difficulty": "intermediate"
@@ -94,7 +100,8 @@
         "d": "Cone"
       },
       "explanations": {
-        "d": "Cone"
+        "d": "Cone",
+        "explanation": "A cone is formed by rotating a right-angled triangle around one of its perpendicular sides."
       },
       "correctAnswer": "d",
       "difficulty": "intermediate"
@@ -108,7 +115,8 @@
         "d": "None of these"
       },
       "explanations": {
-        "a": "Perpendicular to the base"
+        "a": "Perpendicular to the base",
+        "explanation": "In a right pyramid, the axis runs vertically and is perpendicular to its base."
       },
       "correctAnswer": "a",
       "difficulty": "intermediate"
@@ -122,7 +130,8 @@
         "d": "Agricultural planning"
       },
       "explanations": {
-        "b": "Foundation for designing and visualizing structures"
+        "b": "Foundation for designing and visualizing structures",
+        "explanation": "Understanding solid projections helps engineers in 3D visualization for design and construction."
       },
       "correctAnswer": "b",
       "difficulty": "intermediate"
@@ -136,7 +145,8 @@
         "d": "A cube with equal square faces"
       },
       "explanations": {
-        "a": "The top portion of a cone or pyramid removed by a parallel plane"
+        "a": "The top portion of a cone or pyramid removed by a parallel plane",
+        "explanation": "A frustum results from slicing a cone or pyramid with a plane parallel to its base."
       },
       "correctAnswer": "a",
       "difficulty": "intermediate"
@@ -150,7 +160,8 @@
         "d": "isosceles triangles"
       },
       "explanations": {
-        "a": "regular pentagons"
+        "a": "regular pentagons",
+        "explanation": "A dodecahedron consists of twelve identical regular pentagonal faces."
       },
       "correctAnswer": "a",
       "difficulty": "advanced"
@@ -164,7 +175,8 @@
         "d": "Right angle sphere"
       },
       "explanations": {
-        "b": "Right angle triangle"
+        "b": "Right angle triangle",
+        "explanation": "A cone is formed by rotating a right-angled triangle about one of its perpendicular sides."
       },
       "correctAnswer": "b",
       "difficulty": "advanced"
@@ -178,7 +190,8 @@
         "d": "Epex"
       },
       "explanations": {
-        "b": "Apex"
+        "b": "Apex",
+        "explanation": "The apex is the highest point where the triangular faces of a pyramid meet."
       },
       "correctAnswer": "b",
       "difficulty": "advanced"
@@ -192,7 +205,8 @@
         "d": "Frustum"
       },
       "explanations": {
-        "a": "Cylinder"
+        "a": "Cylinder",
+        "explanation": "A cylinder is formed by revolving a rectangle around one of its vertical sides."
       },
       "correctAnswer": "a",
       "difficulty": "advanced"
@@ -206,7 +220,8 @@
         "d": "Diagonal to the base"
       },
       "explanations": {
-        "b": "Inclined to the base"
+        "b": "Inclined to the base",
+        "explanation": "A truncated solid is formed by slicing a solid at an angle (inclined) to its base."
       },
       "correctAnswer": "b",
       "difficulty": "advanced"
