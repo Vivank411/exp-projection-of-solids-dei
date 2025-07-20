@@ -10,8 +10,7 @@
         "d": "100 mm"
       },
       "explanations": {
-        "b": "80 mm",
-        "explanation": "The top view of a cone shows its base as a circle with the same diameter as the base."
+        "b": "The top view of a cone shows its base as a circle with the same diameter as the actual base. Since the base diameter is 80 mm, the top view circle will also have a diameter of 80 mm."
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
@@ -25,8 +24,7 @@
         "d": "Icosahedron"
       },
       "explanations": {
-        "a": "Prism",
-        "explanation": "A prism has identical and regular rectangular faces along its length."
+        "a": "A prism has identical and regular rectangular faces along its length. The lateral faces of a prism are parallelograms or rectangles that are congruent and parallel to each other."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
@@ -40,8 +38,7 @@
         "d": "Triangle"
       },
       "explanations": {
-        "d": "Triangle",
-        "explanation": "When viewed from the top, the base of a triangular prism appears as a triangle."
+        "d": "When a triangular prism is viewed from the top (perpendicular to HP), the base appears in its true shape, which is a triangle. The top view shows the actual form of the base."
       },
       "correctAnswer": "d",
       "difficulty": "beginner"
@@ -55,8 +52,7 @@
         "d": "Hexagon"
       },
       "explanations": {
-        "a": "Triangle",
-        "explanation": "A regular tetrahedron has all four faces as equilateral triangles, including the base."
+        "a": "A regular tetrahedron has all four faces as equilateral triangles, including the base. It is the simplest polyhedron with triangular faces meeting at each vertex."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
@@ -70,8 +66,7 @@
         "d": "Circle"
       },
       "explanations": {
-        "b": "Hexagon",
-        "explanation": "The top view always shows the true shape of the base, which is a hexagon for a hexagonal prism."
+        "b": "The top view always shows the true shape of the base regardless of the inclination of the axis. For a hexagonal prism, the base remains hexagonal in the top view even when the axis is inclined."
       },
       "correctAnswer": "b",
       "difficulty": "intermediate"
@@ -85,8 +80,7 @@
         "d": "Parallel to both HP and VP"
       },
       "explanations": {
-        "c": "Inclined to both HP and VP",
-        "explanation": "If a solid is tilted with respect to both reference planes, its axis is inclined to both HP and VP."
+        "c": "When a solid is positioned such that it is tilted with respect to both reference planes (HP and VP), its axis is inclined to both planes, creating oblique projections on both views."
       },
       "correctAnswer": "c",
       "difficulty": "intermediate"
@@ -95,13 +89,12 @@
       "question": "In the procedure for drawing a cone, what does the circle in the top view represent?",
       "answers": {
         "a": "Base of the cone",
-        "b": "Apex of the cone ",
+        "b": "Apex of the cone",
         "c": "Slant height of the cone",
         "d": "Diameter of the cone"
       },
       "explanations": {
-        "a": "Base of the cone",
-        "explanation": "The circle in the top view of a cone represents the base of the cone."
+        "a": "The circle in the top view of a cone represents the base of the cone. This circular outline shows the boundary of the cone's base when viewed from above."
       },
       "correctAnswer": "a",
       "difficulty": "intermediate"
@@ -115,8 +108,7 @@
         "d": "Parallel to both HP and VP"
       },
       "explanations": {
-        "d": "Parallel to both HP and VP",
-        "explanation": "When a cone’s axis is parallel to both reference planes, it lies horizontally in space."
+        "d": "When a cone's axis is positioned parallel to both reference planes (HP and VP), it means the axis lies horizontally in space, maintaining equal distance from both planes."
       },
       "correctAnswer": "d",
       "difficulty": "intermediate"
@@ -130,8 +122,7 @@
         "d": "Isometric projection"
       },
       "explanations": {
-        "c": "Axonometric projection",
-        "explanation": "Axonometric projection allows multiple faces of a 3D object to be shown simultaneously in a single view."
+        "c": "Axonometric projection allows multiple faces of a 3D object to be shown simultaneously in a single view. When vertical faces are equally inclined to VP, it creates this type of pictorial representation."
       },
       "correctAnswer": "c",
       "difficulty": "advanced"
@@ -145,8 +136,7 @@
         "d": "Parallel to both HP and VP"
       },
       "explanations": {
-        "c": "Inclined to both HP and VP",
-        "explanation": "When a cone rests on a generator, its axis is slanted, thus inclined to both HP and VP."
+        "c": "When a cone rests on one of its generators (slant lines from apex to base circumference), the axis of the cone becomes slanted with respect to both the horizontal plane (HP) and vertical plane (VP)."
       },
       "correctAnswer": "c",
       "difficulty": "advanced"

@@ -2,16 +2,15 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "Which of the solid has both top and base parallel to each other? ",
+      "question": "Which of the solid has both top and base parallel to each other?",
       "answers": {
         "a": "Frustum",
         "b": "Truncated",
         "c": "Cone",
-        "d": "None of these"
+        "d": "Sphere"
       },
       "explanations": {
-        "a": "Frustum",
-        "explanation": "A frustum has two parallel circular or polygonal faces—top and base."
+        "a": "A frustum has two parallel circular or polygonal faces—top and base, making it the correct answer for solids with parallel top and base."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
@@ -25,8 +24,7 @@
         "d": "four, thickness"
       },
       "explanations": {
-        "c": "three, thickness",
-        "explanation": "Solids have three dimensions: length, breadth (width), and thickness (height)."
+        "c": "Solids have three dimensions: length, breadth (width), and thickness (height). These three dimensions define the complete spatial extent of any solid object."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
@@ -35,13 +33,12 @@
       "question": "Solid may be divided into two groups ______ and ______.",
       "answers": {
         "a": "Prism and Pyramid",
-        "b": "Polyhedron and Octahedron.",
+        "b": "Polyhedron and Octahedron",
         "c": "Polyhedron and Solids of Revolution",
-        "d": "Dodecahedron and Solids of Revolution "
+        "d": "Dodecahedron and Solids of Revolution"
       },
       "explanations": {
-        "c": "Polyhedron and Solids of Revolution",
-        "explanation": "Solids are categorized based on faces (polyhedrons) and shape generation (revolution)."
+        "c": "Solids are categorized into two main groups: Polyhedrons (solids with flat polygonal faces) and Solids of Revolution (solids formed by rotating a plane figure around an axis)."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
@@ -52,11 +49,10 @@
         "a": "Polyhedron",
         "b": "Solids of Revolution",
         "c": "Both a) and b)",
-        "d": "None of these"
+        "d": "Octahedron"
       },
       "explanations": {
-        "a": "Polyhedron",
-        "explanation": "Polyhedrons are solids with flat polygonal faces like prisms and pyramids."
+        "a": "Polyhedrons are solids bounded by flat polygonal faces. Both prisms and pyramids have flat faces and are therefore classified as polyhedrons."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
@@ -67,11 +63,10 @@
         "a": "Unequal and irregular faces",
         "b": "Equal and regular faces",
         "c": "Parallel sides",
-        "d": "None of these"
+        "d": "Curved surfaces"
       },
       "explanations": {
-        "b": "Equal and regular faces",
-        "explanation": "A regular polyhedron has all faces equal in size and shape."
+        "b": "A regular polyhedron has all faces equal in size and shape, with identical angles and edge lengths, creating perfect geometric symmetry."
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
@@ -85,8 +80,7 @@
         "d": "40"
       },
       "explanations": {
-        "b": "20",
-        "explanation": "An icosahedron is a regular polyhedron with 20 equilateral triangular faces."
+        "b": "An icosahedron is a regular polyhedron with exactly 20 equilateral triangular faces, 12 vertices, and 30 edges."
       },
       "correctAnswer": "b",
       "difficulty": "intermediate"
@@ -100,8 +94,7 @@
         "d": "Cone"
       },
       "explanations": {
-        "d": "Cone",
-        "explanation": "A cone is formed by rotating a right-angled triangle around one of its perpendicular sides."
+        "d": "A cone is a solid of revolution formed by rotating a right-angled triangle around one of its perpendicular sides as the axis of rotation."
       },
       "correctAnswer": "d",
       "difficulty": "intermediate"
@@ -112,11 +105,10 @@
         "a": "Perpendicular to the base",
         "b": "Parallel to the base",
         "c": "Inclined to the base",
-        "d": "None of these"
+        "d": "Diagonal to the base"
       },
       "explanations": {
-        "a": "Perpendicular to the base",
-        "explanation": "In a right pyramid, the axis runs vertically and is perpendicular to its base."
+        "a": "In a right pyramid, the axis runs vertically from the center of the base to the apex and is perpendicular to the base plane."
       },
       "correctAnswer": "a",
       "difficulty": "intermediate"
@@ -130,8 +122,7 @@
         "d": "Agricultural planning"
       },
       "explanations": {
-        "b": "Foundation for designing and visualizing structures",
-        "explanation": "Understanding solid projections helps engineers in 3D visualization for design and construction."
+        "b": "Understanding solid projections provides engineers with the foundation for 3D visualization, design development, and accurate representation of structures and components."
       },
       "correctAnswer": "b",
       "difficulty": "intermediate"
@@ -145,8 +136,7 @@
         "d": "A cube with equal square faces"
       },
       "explanations": {
-        "a": "The top portion of a cone or pyramid removed by a parallel plane",
-        "explanation": "A frustum results from slicing a cone or pyramid with a plane parallel to its base."
+        "a": "A frustum is the remaining portion of a cone or pyramid after the top part has been removed by a cutting plane parallel to the base."
       },
       "correctAnswer": "a",
       "difficulty": "intermediate"
@@ -160,8 +150,7 @@
         "d": "isosceles triangles"
       },
       "explanations": {
-        "a": "regular pentagons",
-        "explanation": "A dodecahedron consists of twelve identical regular pentagonal faces."
+        "a": "A dodecahedron is a regular polyhedron consisting of twelve identical regular pentagonal faces, with each vertex joining three pentagons."
       },
       "correctAnswer": "a",
       "difficulty": "advanced"
@@ -175,8 +164,7 @@
         "d": "Right angle sphere"
       },
       "explanations": {
-        "b": "Right angle triangle",
-        "explanation": "A cone is formed by rotating a right-angled triangle about one of its perpendicular sides."
+        "b": "A right circular cone is formed by rotating a right-angled triangle about one of its perpendicular sides (usually the height) as the axis of rotation."
       },
       "correctAnswer": "b",
       "difficulty": "advanced"
@@ -190,8 +178,7 @@
         "d": "Epex"
       },
       "explanations": {
-        "b": "Apex",
-        "explanation": "The apex is the highest point where the triangular faces of a pyramid meet."
+        "b": "The apex is the highest point of a pyramid where all the triangular faces meet at a single vertex, forming the tip of the structure."
       },
       "correctAnswer": "b",
       "difficulty": "advanced"
@@ -205,8 +192,7 @@
         "d": "Frustum"
       },
       "explanations": {
-        "a": "Cylinder",
-        "explanation": "A cylinder is formed by revolving a rectangle around one of its vertical sides."
+        "a": "A cylinder is formed by revolving a rectangle around one of its sides (usually the longer side) as the axis of rotation, creating circular cross-sections."
       },
       "correctAnswer": "a",
       "difficulty": "advanced"
@@ -220,8 +206,7 @@
         "d": "Diagonal to the base"
       },
       "explanations": {
-        "b": "Inclined to the base",
-        "explanation": "A truncated solid is formed by slicing a solid at an angle (inclined) to its base."
+        "b": "A truncated solid is formed by making an inclined cut (at an angle) to the base of the solid, creating an irregular cross-section different from the original shape."
       },
       "correctAnswer": "b",
       "difficulty": "advanced"
